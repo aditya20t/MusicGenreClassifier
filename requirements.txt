@@ -6,3 +6,4 @@ librosa
 evaluate
 gradio
 numpy
+ffmpeg

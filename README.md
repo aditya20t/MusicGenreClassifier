@@ -1,13 +1,13 @@
 ---
 title: Music Genre Classifier
 emoji: 🎵
-colorFrom: blue
-colorTo: indigo
+colorFrom: indigo
+colorTo: blue
 sdk: gradio
-sdk_version: 4.25.0
-python_version: 3.10
+sdk_version: 4.0.0
 app_file: app.py
 pinned: false
+python_version: 3.10
 ---
 
 # 🎵 Music Genre Classifier
