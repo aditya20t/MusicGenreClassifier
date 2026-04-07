@@ -1,3 +1,16 @@
+---
+title: Music Genre Classifier
+emoji: 🎵
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.25.0
+python_version: 3.10
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🎵 Music Genre Classifier
 
 This project uses a fine-tuned **DistilHuBERT** model to classify music genres from the [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan). It features a real-time web interface built with Gradio.

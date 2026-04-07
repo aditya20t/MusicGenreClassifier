@@ -1,5 +1,7 @@
 transformers
+datasets
 torch
+torchaudio
 librosa
 evaluate
-ffmpeg
+gradio
