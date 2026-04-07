@@ -8,7 +8,6 @@ sdk_version: 4.25.0
 python_version: 3.10
 app_file: app.py
 pinned: false
-license: mit
 ---
 
 # 🎵 Music Genre Classifier

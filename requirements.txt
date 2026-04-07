@@ -5,3 +5,4 @@ torchaudio
 librosa
 evaluate
 gradio
+numpy
